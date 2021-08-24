@@ -1,0 +1,103 @@
+    .zom {
+        position: absolute;
+        text-align: center;
+        color:white; 
+        top:5px;
+        width: 100px;
+        font-size:120px;
+        left: 480px;  
+        }
+
+        .pehragraph {
+        position: absolute;
+        top: 220px;
+        left: 300px;
+        text-align: center;
+        color:white;
+        font-size:35px;
+        letter-spacing: 1px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;                
+        }
+
+        .box1 {
+        position: relative;
+        bottom: 400px;
+        left: 1100px;
+        font-weight: bold;
+        font-size: 25px;
+        color: white;
+        }
+
+        .box2 {
+        position: relative;
+        bottom: 446px;
+        left: 1010px;
+        color:white;
+        font-weight: bold;
+        font-size: 25px;
+        }
+        .App {
+        position: relative;
+        bottom: 520px;
+        left: 100px;
+        color:white;
+        font-weight: bold;
+        font-size: 18px;}
+
+        .Box{height:350px;
+        width: 1300px;
+        color: white;
+        position: relative;
+        bottom: 110px;
+        }
+
+        .searchbox{
+            height: 35px;
+        width: 350px;
+        font-size: 15px;
+        position: relative;
+        font-weight: bold;
+        top: -560px;
+        left: 500px;
+        bottom: 1000px;
+            }
+
+        .Pehra {
+        position: relative;   
+        font-size: 50px;
+        bottom: 500px;
+        left: 10px
+        
+        }
+        .ser{height: 38px;
+            width: 200px;
+            background-color:white;
+            border-radius: 15px;
+            position: relative;
+            top: -660px;
+            left: 870px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
